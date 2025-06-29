@@ -1,3 +1,3 @@
-# chai aur backend
+# backend development project
 
-this is a video series on chai and backend with javascript and backend development
+this is a project on backend development using node.js express mongo db through mongoose
